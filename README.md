@@ -1,18 +1,16 @@
-<<<<<<< HEAD
-# welcome at readingnote
+# Welcome in My Readingnote
+:black_heart:
 
-|name of assignment |link "URL"|
+|Name of Assignment |link "URL"|
 |------------------------------|
-|markdown|[markdown](https://eid-sukariah.github.io/readingnote/markdown)
-|git     |[git]()
-|  html  |[html] ()
+|Markdown|[markdown](https://eid-sukariah.github.io/readingnote/markdown)
+|Git     |[git]()
+|  HTML  |[html] ()
 |        |
 |        |
 
 
 
-# Do not go out before you say Glory to God
-=======
-# Welcome Here 
-## *Home*
->>>>>>> 517056bd5f3727f4ef257b374e97bdb853cd9b97
+# Do not go out before you say Glory to God :star: :blue_heart:
+
+
