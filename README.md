@@ -5,7 +5,7 @@
 |------------------------------|
 |Markdown|[markdown](https://eid-sukariah.github.io/readingnote/markdown)
 |Git     |[git](https://eid-sukariah.github.io/readingnote/git)
-|  HTML  |[html] (https://eid-sukariah.github.io/readingnote html)
+|  HTML  |[html](https://eid-sukariah.github.io/readingnote html)
 |        |
 |        |
 
