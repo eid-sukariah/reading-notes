@@ -4,8 +4,8 @@
 |Name of Assignment |link "URL"|
 |------------------------------|
 |Markdown|[markdown](https://eid-sukariah.github.io/readingnote/markdown)
-|Git     |[git]()
-|  HTML  |[html] ()
+|Git     |[git](https://eid-sukariah.github.io/readingnote/git)
+|  HTML  |[html] (https://eid-sukariah.github.io/readingnote/html)
 |        |
 |        |
 
