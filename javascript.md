@@ -4,7 +4,7 @@
 
 JavaScript is a cross-platform, object-oriented scripting language used mainly for enhancing the interaction of a user with the webpage. In other words, you can make your webpage more lively and interactive, with the help of JavaScript( having animations, clickable buttons, popup menus, etc.)
 
-[js](https://res-4.cloudinary.com/hl8x9mfjy/image/upload/q_auto/v1/ghost-blog-images/JavaScript-You-Need-To-Know.png)
+![js](https://res-4.cloudinary.com/hl8x9mfjy/image/upload/q_auto/v1/ghost-blog-images/JavaScript-You-Need-To-Know.png)
 
 ### Basic Operators of JS
 
