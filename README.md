@@ -7,7 +7,7 @@
 |Git     |[git](https://eid-sukariah.github.io/readingnote/git)
 |  HTML  |[html](https://eid-sukariah.github.io/readingnote html)
 |javascript|[javascript](https://eid-sukariah.github.io/readingnote/javascript)
-|        |
+| loop   |[loop](https://eid-sukariah.github.io/readingnote/loop)
 
 
 
