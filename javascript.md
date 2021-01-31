@@ -8,11 +8,11 @@ JavaScript is a cross-platform, object-oriented scripting language used mainly f
 
 ### Basic Operators of JS
 
-1. Arithmetic Operators (+ - * / % ++ --)
-2. Comparison Operators(== === != >  < >= <=)
-3. Logical Operators (&& || !)
-4. Assignment Operators (= += -+ *= /= %=)
-5. Conditional Operators
+1. Arithmetic Operators :used to perform mathematical operations between numeric operands. (+ - * / % ++ --)
+2. Comparison Operators :compare two operands and return Boolean value true or false(== === != >  < >= <=)
+3. Logical Operators :used to combine two or more conditions. (&& || !)
+4. Assignment Operators :assign values to variables with less key strokes. (= += -+ *= /= %=)
+5. Conditional Operators :that assigns a value to a variable based on some condition. This is like short form of if-else condition.
 
 *Loops*: while and for
 * for Loops Syntax:
