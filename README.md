@@ -8,6 +8,7 @@
 |  HTML  |[html](https://eid-sukariah.github.io/readingnote html)
 |javascript|[javascript](https://eid-sukariah.github.io/readingnote/javascript)
 | loop   |[loop](https://eid-sukariah.github.io/readingnote/loop)
+|CSS     |[css](https://eid-sukariah.github.io/readingnote/css)
 
 
 
