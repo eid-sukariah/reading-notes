@@ -130,9 +130,14 @@ The *interpreter* takes your instructions (in JavaScript) and translates them in
 
 When you want to use JavaScript with a web page, you use the HTML`<script>` element to tell the browser it is coming across a script. Its s re attribute tells people where the JavaScript file is stored.
 You may see JavaScript in the HTML between opening `<script>` and closing `</script>` tags
-(but it is better to put scripts in their own files).[3] 
+(but it is better to put scripts in their own files).[3]
 
 
+### Short test
+1. what is the tags & give example ?
+2. what is the attribute & give example ?
+3. what is the difference between id & class ?
+4. explane how js worke ?
 ### refrences:
 1. HTML & CSS Design and Build Websites Jon Ducket
 2. https://webdesigntips.blog/wordpress/themes/hack-your-way-to-great-design-basic-design-principles-for-wordpress-developers/
