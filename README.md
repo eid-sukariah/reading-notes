@@ -11,10 +11,11 @@
 |CSS     |[css](https://eid-sukariah.github.io/readingnote/css)|
 |class-01|[class-01](https://eid-sukariah.github.io/readingnote/class-01)|
 
+# Code 102 Reading Notes
 
 [reading table-201](https://eid-sukariah.github.io/readingnote/readingtable-201)
 
 
-# Do not go out before you say Glory to God :star: :blue_heart:
+
 
 
