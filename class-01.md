@@ -138,6 +138,8 @@ You may see JavaScript in the HTML between opening `<script>` and closing `</scr
 2. what is the attribute & give example ?
 3. what is the difference between id & class ?
 4. explane how js worke ?
+
+
 ### refrences:
 1. HTML & CSS Design and Build Websites Jon Ducket
 2. https://webdesigntips.blog/wordpress/themes/hack-your-way-to-great-design-basic-design-principles-for-wordpress-developers/

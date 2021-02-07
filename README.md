@@ -7,8 +7,8 @@
 |-----------------------------|
 |  1  |class-01|6-2   |[class-01](https://eid-sukariah.github.io/readingnote/class-01)|
 |  2  |class-02|7-2   |[class-02](https://eid-sukariah.github.io/readingnote/class-02)|
-|  3  |class-03|
-|  4  |class-04|
+|  3  |class-03|8-2   |[class-03](https://eid-sukariah.github.io/readingnote/class-03)|
+|  4  |class-04|9-2   |[class-04](https://eid-sukariah.github.io/readingnote/class-04)|
 |  5  |class-05|
 |  6  |class-06|
 |  7  |class-07|
