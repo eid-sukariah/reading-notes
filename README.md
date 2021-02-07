@@ -1,6 +1,27 @@
 # Welcome in My Readingnote
 :black_heart:
 
+# Code 102 Reading Notes
+
+| No. |name    |date  | url |
+|-----------------------------|
+|  1  |class-01|6-2   |  [class-01](https://eid-sukariah.github.io/readingnote/class-01) |
+|  2  |class-02|
+|  3  |class-03|
+|  4  |class-04|
+|  5  |class-05|
+|  6  |class-06|
+|  7  |class-07|
+|  8  |class-08|
+|  9  |class-08|
+|  10 |class-10|
+|  11 |class-11|
+|  12 |class-12|
+|  13 |class-13|
+|  14 |class-14|
+|  15 |class-15|
+
+
 |Name of Assignment |link "URL"|
 |------------------------------|
 |Markdown|[markdown](https://eid-sukariah.github.io/readingnote/markdown)|
@@ -11,27 +32,7 @@
 |CSS     |[css](https://eid-sukariah.github.io/readingnote/css)|
 
 
-# Code 102 Reading Notes
 
-[reading table-201](https://eid-sukariah.github.io/readingnote/readingtable-201)
-
-| No. |name    |date    | url |
-|-----------------------------|
-|  1  |class-01|6-2  |  [class-01](https://eid-sukariah.github.io/readingnote/class-01) |
-|  2  |
-|  3  |
-|  4  |
-|  5  |
-|  6  |
-|  7  |
-|  8  |
-|  9  |
-|  10 | 
-|  11 |
-|  12 |
-|  13 |
-|  14 |
-|  15 |
 
 
 
