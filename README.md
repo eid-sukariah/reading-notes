@@ -3,23 +3,23 @@
 
 # Code 102 Reading Notes
 
-| No. |name    |date  | url |
-|-----------------------------|
-|  1  |class-01|6-2   |[class-01](https://eid-sukariah.github.io/readingnote/class-01)|
-|  2  |class-02|7-2   |[class-02](https://eid-sukariah.github.io/readingnote/class-02)|
-|  3  |class-03|8-2   |[class-03](https://eid-sukariah.github.io/readingnote/class-03)|
-|  4  |class-04|9-2   |[class-04](https://eid-sukariah.github.io/readingnote/class-04)|
-|  5  |class-05|
-|  6  |class-06|
-|  7  |class-07|
-|  8  |class-08|
-|  9  |class-08|
-|  10 |class-10|
-|  11 |class-11|
-|  12 |class-12|
-|  13 |class-13|
-|  14 |class-14|
-|  15 |class-15|
+| No.   |name    |date  | url   |
+|-------------------------------|
+|- [x]1 |class-01|6-2   |[class-01](https://eid-sukariah.github.io/readingnote/class-01)|
+|- [x]2 |class-02|7-2   |[class-02](https://eid-sukariah.github.io/readingnote/class-02)|
+|  3    |class-03|8-2   |[class-03](https://eid-sukariah.github.io/readingnote/class-03)|
+|  4    |class-04|9-2   |[class-04](https://eid-sukariah.github.io/readingnote/class-04)|
+|  5    |class-05|
+|  6    |class-06|
+|  7    |class-07|
+|  8    |class-08|
+|  9    |class-08|
+|  10   |class-10|
+|  11   |class-11|
+|  12   |class-12|
+|  13   |class-13|
+|  14   |class-14|
+|  15   |class-15|
 
 
 |Name of Assignment |link "URL"|

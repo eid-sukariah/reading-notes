@@ -47,6 +47,7 @@ An **array** is a special type of variable. It doesn't just store one value; it 
 ![ARITHMETI C OPERATORS ](https://www.devopsschool.com/blog/wp-content/uploads/2020/07/JavaScript-Arithmatic-Operators.png)
 
 ## switch statements
+A switch statement starts with a variable called the switch value. Each case indicates a possible value for this variable and the code that should run if the variable matches that value. 
 
 
 1. what is the array & give example ?
