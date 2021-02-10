@@ -19,3 +19,23 @@ Functions let you group a series of statements together to perform a
 specific task. If different parts of a script repeat the same task, you can
 reuse the function (rather than repeating the same set of statements). 
 ![#](https://s3.ap-south-1.amazonaws.com/s3.studytonight.com/tutorials/uploads/pictures/1587882057-1.png)
+
+## Pair Programming
+
+## How does pair programming work?
+pair programming commonly involves two roles: the Driver and the Navigator. The Driver is the programmer who is typing and the only one whose hands are on the keyboard.
+the Driver manages the text editor,switching files, version control, and—of course writing—code. The Navigator uses their words to guide the Driver but does not provide any direct input to the computer. The Navigator thinks about the big picture, what comes next, how an algorithm might be converted in to code, while scanning for typos or bugs. The Navigator might also utilize their computer as a second screen to look up solutions and documentation, but should not be writing any code.
+
+## Why pair program?
+
+Greater efficiency
+
+Engaged collaboration
+
+Learning from fellow students
+
+Social skills
+
+Job interview readiness
+
+Work environment readiness
