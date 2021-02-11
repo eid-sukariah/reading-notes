@@ -40,3 +40,4 @@ Typeface Terminology:
 1. Serif --Serif fonts have extra details on the ends of the main strokes of the letters. These details are known as serifs
 2. Sans-Serif -- Sans-serif fonts have straight ends to letters, and therefore have a much cleaner design.
 3. Monospace-- Every letter in a monospace (or fixed-width) font is the same width. (Non-monospace fonts have different widths.)
+![#](image/1.png)
