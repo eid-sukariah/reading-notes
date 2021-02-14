@@ -11,6 +11,7 @@
 *  make programming easier, you can do one of two things:
 * Make the problem domain easier
 * Get better at understanding the problem domain
+## Programming is easy if you understand the problem domain
 
 
 ## what is an object?

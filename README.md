@@ -11,9 +11,9 @@
 |  4 |class-04|9-2   |[class-04](https://eid-sukariah.github.io/readingnote/class-04)|
 |  5 |class-05|10-2  |[class-05](https://eid-sukariah.github.io/readingnote/class-05)|
 |  6 |class-06|13-2  |[class-06](https://eid-sukariah.github.io/readingnote/class-06)|
-|  7 |class-07|
-|  8 |class-08|
-|  9 |class-08|
+|  7 |class-07|14-2  |[class-07](https://eid-sukariah.github.io/readingnote/class-07)|
+|  8 |class-08|15-2  |[class-08](https://eid-sukariah.github.io/readingnote/class-08)|
+|  9 |class-08|16-2  |[class-08](https://eid-sukariah.github.io/readingnote/class-09)|
 |  10|class-10|
 |  11|class-11|
 |  12|class-12|
