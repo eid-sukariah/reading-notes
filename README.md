@@ -18,8 +18,8 @@
 |  11|class-11|20-2  |[class-11](https://eid-sukariah.github.io/readingnote/class-11)|
 |  12|class-12|21-2  |[class-12](https://eid-sukariah.github.io/readingnote/class-12)|
 |  13|class-13|22-2  |[class-13](https://eid-sukariah.github.io/readingnote/class-13)|
-|  14|class-14|23-2  |[class-11](https://eid-sukariah.github.io/readingnote/class-11)|
-|  15|class-15|24-2  |[class-11](https://eid-sukariah.github.io/readingnote/class-11)|
+|  14|class-14a|23-2  |[class-14a](https://eid-sukariah.github.io/readingnote/class-14a)|
+|  15|class-14b|23-2  |[class-14b](https://eid-sukariah.github.io/readingnote/class-14b)|
 
 
 |Name of Assignment |link "URL"|
