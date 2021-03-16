@@ -1,7 +1,29 @@
-# Welcome in My Readingnote
+# Reading Notes
 :black_heart:
 
-# Code 102 Reading Notes
+## Code 301 - Intermediate Software Development
+in this table you can find all my 301-reading note.
+
+| No.     |name    |date  | URL      |
+|------------------------------------|
+|- [x] 1  |
+|- [ ] 2
+|- [ ] 3
+|- [ ] 4
+|- [ ] 5
+|- [ ] 6
+|- [ ] 7
+|- [ ] 8
+|- [ ] 9
+|- [ ] 10
+|- [ ] 11
+|- [ ] 12
+|- [ ] 13
+|- [ ] 14
+|- [ ] 15
+
+
+## Code 201 - Foundations of Software Development
 
 | No.|name    |date  | URL      |
 |-------------------------------|
@@ -21,6 +43,9 @@
 |  14|class-14a|23-2  |[class-14a](https://eid-sukariah.github.io/readingnote/class-14a)|
 |  15|class-14b|23-2  |[class-14b](https://eid-sukariah.github.io/readingnote/class-14b)|
 
+
+
+## Code 102 - Intro to Software Development
 
 |Name of Assignment |link "URL"|
 |------------------------------|
