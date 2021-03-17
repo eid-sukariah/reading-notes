@@ -4,13 +4,13 @@
 ## Code 301 - Intermediate Software Development
 in this table you can find all my 301-reading note.
 
-| No.     |name    |date  | URL      |
-|------------------------------------|
-|- [x] 1  |
-|- [ ] 2
-|- [ ] 3
-|- [ ] 4
-|- [ ] 5
+| No.     |name                | URL      |
+|-----------------------------------------|
+|- [x] 1  |Responsive &flote   |[read-1](https://eid-sukariah.github.io/readingnote/read-1)|
+|- [ ] 2  |jQuery,Events,DOM   |
+|- [ ] 3  |Flexbox & Templating|
+|- [ ] 4  |RWD & Regular Expressions|
+|- [ ] 5  |Heroku Deployment   |
 |- [ ] 6
 |- [ ] 7
 |- [ ] 8
