@@ -8,7 +8,7 @@ in this table you can find all my 301-reading note.
 |-----------------------------------------|
 |- [x] 1  |Responsive &flote   |[read-1](https://eid-sukariah.github.io/readingnote/301/read-1)|
 |- [ ] 2  |jQuery,Events,DOM   |[read-2](https://eid-sukariah.github.io/readingnote/301/read-2)|
-|- [ ] 3  |Flexbox & Templating|
+|- [ ] 3  |Flexbox & Templating|[read-3](https://eid-sukariah.github.io/readingnote/301/read-3)
 |- [ ] 4  |RWD & Regular Expressions|
 |- [ ] 5  |Heroku Deployment   |
 |- [ ] 6
