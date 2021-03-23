@@ -49,12 +49,12 @@ in this table you can find all my 301-reading note.
 
 |Name of Assignment |link "URL"|
 |------------------------------|
-|Markdown|[markdown](https://eid-sukariah.github.io/readingnote/102/markdown)|
-|Git     |[git](https://eid-sukariah.github.io/readingnote/102/git)|
-|  HTML  |[html](https://eid-sukariah.github.io/readingnote/102/ html)|
-|javascript|[javascript](https://eid-sukariah.github.io/readingnote/102/javascript)|
-| loop   |[loop](https://eid-sukariah.github.io/readingnote/102/loop)|
-|CSS     |[css](https://eid-sukariah.github.io/readingnote/102/css)|
+|Markdown|[markdown](https://eid-sukariah.github.io/readingnotes/102/markdown)|
+|Git     |[git](https://eid-sukariah.github.io/readingnotes/102/git)|
+|  HTML  |[html](https://eid-sukariah.github.io/readingnotes/102/ html)|
+|javascript|[javascript](https://eid-sukariah.github.io/readingnotes/102/javascript)|
+| loop   |[loop](https://eid-sukariah.github.io/readingnotes/102/loop)|
+|CSS     |[css](https://eid-sukariah.github.io/readingnotes/102/css)|
 
 
 
