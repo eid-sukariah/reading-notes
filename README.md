@@ -1,10 +1,11 @@
 # Reading Notes
 :black_heart:
 
+![#](https://www.goodcore.co.uk/blog/wp-content/uploads/2019/08/coding-vs-programming-2.jpg)
 
 ## Code 102 - Intro to Software Development
 
-Name     |link "URL"|
+Name     | "URL"|
 ---------|---------------------|
 Markdown|[markdown](https://eid-sukariah.github.io/reading-notes/102/markdown)|
   Git   |[git](https://eid-sukariah.github.io/reading-notes/102/git)|
@@ -30,7 +31,8 @@ javascript|[javascript](https://eid-sukariah.github.io/reading-notes/102/javascr
   10|class-10|17-2  |[class-10](https://eid-sukariah.github.io/reading-notes/201/class-10)|
   11|class-11|20-2  |[class-11](https://eid-sukariah.github.io/reading-notes/201/class-11)|
   12|class-12|21-2  |[class-12](https://eid-sukariah.github.io/reading-notes/201/class-12)|
-  13|class-13|22-2  |[class-13](https://eid-sukariah.github.io/reading-notes/201/class-13)|                              14|class-14a|23-2  |[class-14a](https://eid-sukariah.github.io/reading-notes/201/class-14a)|
+  13|class-13|22-2  |[class-13](https://eid-sukariah.github.io/reading-notes/201/class-13)|                              
+  14|class-14a|23-2  |[class-14a](https://eid-sukariah.github.io/reading-notes/201/class-14a)|
   15|class-14b|23-2  |[class-14b](https://eid-sukariah.github.io/reading-notes/201/class-14b)|
 
 
