@@ -51,9 +51,9 @@ in this table you can find all my 301-reading note.
  4  |RWD & Regular Expressions|[read-4](https://eid-sukariah.github.io/reading-notes/301/read-4)
  5  |Heroku Deployment   |[read-5](https://eid-sukariah.github.io/reading-notes/301/read-5)|
  6  |NODE.JS            |[read-6](https://eid-sukariah.github.io/reading-notes/301/read-6)|
- 7  |SuperAgent|[read-7](https://eid-sukariah.github.io/reading-notes/301/read-7)|
- 8  |SQL |[read-8](https://eid-sukariah.github.io/reading-notes/301/read-8)|
- 9  |Refactoring |[read-9](https://eid-sukariah.github.io/reading-notes/301/read-9)|
+ 7  |SuperAgent|[read-7](https://eid-sukariah.github.io/reading-notes/301/read-07)|
+ 8  |SQL |[read-8](https://eid-sukariah.github.io/reading-notes/301/read-08)|
+ 9  |Refactoring |[read-9](https://eid-sukariah.github.io/reading-notes/301/read-09)|
 
 
 
