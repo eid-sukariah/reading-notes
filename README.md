@@ -54,7 +54,7 @@ in this table you can find all my 301-reading note.
  7  |SuperAgent|[read-7](https://eid-sukariah.github.io/reading-notes/301/read-07)|
  8  |SQL |[read-8](https://eid-sukariah.github.io/reading-notes/301/read-08)|
  9  |Refactoring |[read-9](https://eid-sukariah.github.io/reading-notes/301/read-09)|
-
-
-
+ 10 |THE CALL STACK|[read-10](https://eid-sukariah.github.io/reading-notes/301/read-10)|
+ 11 |EJS   |[read-11](https://eid-sukariah.github.io/reading-notes/301/read-11)|
+ 
 
