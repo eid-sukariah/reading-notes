@@ -50,7 +50,7 @@ in this table you can find all my 301-reading note.
  3  |Flexbox & Templating|[read-3](https://eid-sukariah.github.io/reading-notes/301/read-3)|
  4  |RWD & Regular Expressions|[read-4](https://eid-sukariah.github.io/reading-notes/301/read-4)
  5  |Heroku Deployment   |[read-5](https://eid-sukariah.github.io/reading-notes/301/read-5)|
- 6  |NODE.JS            |[read-6](https://eid-sukariah.github.io/reading-notes/301/read-6)|
+ 6  |NODE.JS   |[read-6](https://eid-sukariah.github.io/reading-notes/301/read-6)|
  7  |SuperAgent|[read-7](https://eid-sukariah.github.io/reading-notes/301/read-07)|
  8  |SQL |[read-8](https://eid-sukariah.github.io/reading-notes/301/read-08)|
  9  |Refactoring |[read-9](https://eid-sukariah.github.io/reading-notes/301/read-09)|
@@ -59,3 +59,4 @@ in this table you can find all my 301-reading note.
  12 |EJS PARTIALS|[read-12](https://eid-sukariah.github.io/reading-notes/301/read-12)|
  13|Update/Delete|[read-13](https://eid-sukariah.github.io/reading-notes/301/read-13)|
  14|Update/Delete|[read-14](https://eid-sukariah.github.io/reading-notes/301/read-14)|
+ 15|Update/Delete|[read-13](https://eid-sukariah.github.io/reading-notes/301/read-15)|

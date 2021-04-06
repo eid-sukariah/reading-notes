@@ -1,0 +1,8 @@
+**Diverse companies can better serve a diverse user base**
+
+![#](https://s30776.pcdn.co/wp-content/uploads/2019/05/Diverse-group-of-IT-professionals-working-together-in-tech.jpg)
+When the employees of an organization better represent their users and desired users, they will build more effectively for those groups. When YouTubeâ€™s almost entirely right-handed developer team built the iOS app without considering how left-handed people would use it, for example, 5% to 10% of videos were uploaded upside down as a result. This factor may be especially relevant for leaders of consumer tech companies.
+
+It’s no secret that there is a pronounced gender gap in technology fields. In 2014, 70% of the employees at the top tech companies in Silicon Valley, such as Google, Facebook, and Twitter, were male. In technical roles, this phenomenon is even more pronounced; for example, only 10% of the technical workforce at Twitter is female.
+
+But things haven’t always been this way. The numbers of enrollments among men and women in computer science were on their way toward parity in the 1970s and early 1980s. In 1984, 37% of computer science graduates were women, but those numbers began to drop dramatically in the middle of the decade. By 2016, that number had been whittled down to 18%. This dip in the 1980s has created a chasm that the past 30 years hasn’t been able to overcome—and the dude-centric computer marketing campaigns of that time may be to blame.
