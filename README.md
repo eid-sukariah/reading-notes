@@ -56,5 +56,5 @@ in this table you can find all my 301-reading note.
  9  |Refactoring |[read-9](https://eid-sukariah.github.io/reading-notes/301/read-09)|
  10 |THE CALL STACK|[read-10](https://eid-sukariah.github.io/reading-notes/301/read-10)|
  11 |EJS   |[read-11](https://eid-sukariah.github.io/reading-notes/301/read-11)|
- 
-
+ 12 |EJS PARTIALS|[read-12](https://eid-sukariah.github.io/reading-notes/301/read-12)|
+ 13|Update/Delete|[read-13](https://eid-sukariah.github.io/reading-notes/301/read-13)|
