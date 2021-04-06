@@ -58,3 +58,4 @@ in this table you can find all my 301-reading note.
  11 |EJS   |[read-11](https://eid-sukariah.github.io/reading-notes/301/read-11)|
  12 |EJS PARTIALS|[read-12](https://eid-sukariah.github.io/reading-notes/301/read-12)|
  13|Update/Delete|[read-13](https://eid-sukariah.github.io/reading-notes/301/read-13)|
+ 14|Update/Delete|[read-14](https://eid-sukariah.github.io/reading-notes/301/read-14)|
